@@ -2,7 +2,7 @@
 
  **Graphic Designer & AI Practitioner**  
  Currently pursuing **Full Stack AI** at **Nexskill**  
- Working on **Python, Data Science, and Machine Learning projects**  
+ Working on **Python, Data Science, and Machine Learning and Deep Learning projects**  
  Blending creativity and technology to craft meaningful, intelligent visuals.
 
 ---
